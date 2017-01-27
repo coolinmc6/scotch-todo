@@ -49,6 +49,11 @@ todo.
 - the value of the input is passed to the input member using [React's ref](https://facebook.github.io/react/docs/refs-and-the-dom.html)
 -
 
+## Current Place
+- So I finished the app was having some problems and getting an error.  It technically kind of works
+but it looks wrong.  I need to make some tweaks to get it running properly and should probably put
+some more personal touches on it.
+
 
 
 
